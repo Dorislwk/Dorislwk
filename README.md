@@ -1,4 +1,4 @@
-## $${\color{lightblue}Hi \space 👋 \space , \space I'm \space Doris}$$ 
+# $${\color{lightblue}Hi \space 👋 \space , \space I'm \space Doris}$$
 
 
 ## 🖥️ Junior Data Engineer | 🌟 Proactive Learner | 🧬 Healthcare ❤
@@ -29,11 +29,10 @@ I am currently focusing on learning **data engineering** tools and techniques:
 
 ## 📂 Project
 
-### <div style="text-align: center;"> **[Project 1: Employment_Management_System](#)** </div>
+## [Project 1: Employment_Management_System](#)
 
-<div style="text-align: center;">
 This project is a terminal-based application designed to manage employee and department data efficiently. It allows users to perform various administrative tasks related to human resources, such as adding, updating, and removing employee records, as well as managing departmental information.
-</div>
+
 
 #### <code style="color : Aqua ">Technologies Used</code>
 - Python & SQLite
@@ -41,11 +40,10 @@ This project is a terminal-based application designed to manage employee and dep
 #### <code style="color : Aqua ">Key Features</code>
 - Add, read, update, and delete employee records, including personal details, job titles, and salaries. 
 
-### <div style="text-align: center;"> **[Project 2: Weather_Data_Fetching_and_Analysis](#)** </div>
+### **[Project 2: Weather_Data_Fetching_and_Analysis](#)**
 
-<div style="text-align: center;">
 This project involves fetching real-time weather data from API and analyzing historical weather patterns. The application provides visualizations for better understanding of weather trends.
-</div>
+
 
 #### <code style="color : Aqua ">Technologies Used</code>
 - Python, Pandas, Matplotlib, API (OpenWeather API) & SQLite
@@ -55,11 +53,9 @@ This project involves fetching real-time weather data from API and analyzing his
 - Filtering historical data analysis
 - Interactive visualizations (graphs and tables)
 
-### <div style="text-align: center;"> **[Project 3: Diabetes Predictor](#)** </div>
+### **[Project 3: Diabetes Predictor](#)** 
 
-<div style="text-align: center;">
 A predictive model that assesses the risk of diabetes based on various health parameters. The application provides insights based on user data.
-</div>
 
 #### <code style="color : Aqua ">Technologies Used</code>
 - Python, Matplotlib, Scikit-learn, tkinter & Azure
@@ -70,6 +66,9 @@ A predictive model that assesses the risk of diabetes based on various health pa
 - Predictive analytics using machine learning
 
 ## 🤝🏻 Connect with Me
-You can shoot me an email at waikwanlau47@gmail.com / https://www.linkedin.com/in/doris-lau-584460248/! I'll try to respond as soon as I can.
+- [Gmail](waikwanlau47@gmail.com) 
+- [Linkedin](https://www.linkedin.com/in/doris-lau-584460248/)
+- Want to see my code in action? Check out my repositories below!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dorislwk&langs_count=8)# Dorislwk
+## 📊 GitHub Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dorislwk&langs_count=8)
