@@ -2,7 +2,7 @@
 
 
 ## 🖥️ Junior Data Engineer | 🌟 Proactive Learner | 🧬 Healthcare ❤
-I am a passionate developer with a keen interest in healthcare, particularly in NLP and digital health. My background in Agetech has equipped me with a user-centric perspective and strong problem-solving skills. I am eager to contribute and collaborate with like-minded professionals to drive meaningful change in the healthcare sector.
+I am a passionate developer with a keen interest in healthcare, particularly in digital health. My background in Agetech has equipped me with a user-centric perspective and strong problem-solving skills. I am eager to contribute and collaborate with like-minded professionals to drive meaningful change in the healthcare sector.
 
 
 ## 🛠  Tech Stack
@@ -15,6 +15,7 @@ I am a passionate developer with a keen interest in healthcare, particularly in 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Steamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -23,16 +24,15 @@ I am a passionate developer with a keen interest in healthcare, particularly in 
 I am currently focusing on learning **data engineering** tools and techniques:
 
 - **ETL** & **SQL**
-- **API** for real time data streaming and integration
-- **Cloud Azure** for scalable data storage and processing solutions
+- **API** 
+- **Cloud Azure**
 - **NLP** for processing tasks and data analysis involving text
 
 ## 📂 Project
 
-## [Project 1: Employment_Management_System](#)
+### [Project 1: Employment_Management_System](#)
 
 This project is a terminal-based application designed to manage employee and department data efficiently. It allows users to perform various administrative tasks related to human resources, such as adding, updating, and removing employee records, as well as managing departmental information.
-
 
 #### <code style="color : Aqua ">Technologies Used</code>
 - Python & SQLite
@@ -42,7 +42,7 @@ This project is a terminal-based application designed to manage employee and dep
 
 ### **[Project 2: Weather_Data_Fetching_and_Analysis](#)**
 
-This project involves fetching real-time weather data from API and analyzing historical weather patterns. The application provides visualizations for better understanding of weather trends.
+This project involves fetching real-time weather data from API and analyzing historical weather patterns in Hong Kong. The application provides visualizations for better understanding of weather trends.
 
 
 #### <code style="color : Aqua ">Technologies Used</code>
@@ -55,10 +55,10 @@ This project involves fetching real-time weather data from API and analyzing his
 
 ### **[Project 3: Diabetes Predictor](#)** 
 
-A predictive model that assesses the risk of diabetes based on various health parameters. The application provides insights based on user data.
+An analysis and predictive model project that assesses the risk of diabetes based on various health parameters. The application provides insights based on user data.
 
 #### <code style="color : Aqua ">Technologies Used</code>
-- Python, Matplotlib, Scikit-learn, tkinter & Azure
+- Python, Matplotlib, Scikit-learn, Tkinter & Azure
 
 #### <code style="color : Aqua ">Key Features</code>
 - Created visualizations to support comprehensive analysis of factor related with diabetes
@@ -66,7 +66,7 @@ A predictive model that assesses the risk of diabetes based on various health pa
 - Predictive analytics using machine learning
 
 ## 🤝🏻 Connect with Me
-- [Gmail](waikwanlau47@gmail.com) 
+- [Gmail](mailto:waikwanlau47@gmail.com) 
 - [Linkedin](https://www.linkedin.com/in/doris-lau-584460248/)
 - Want to see my code in action? Check out my repositories below!
 
